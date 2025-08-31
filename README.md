@@ -1,11 +1,13 @@
 # 🚗 Simple IR Gate Controller
 
-An automated car entrance detection system using ESP32, IR sensor, and servo motor for smart gate control.
+**An automated car entrance detection system using ESP32, IR sensor, and servo motor for smart gate control.**
 
-![Project Status](https://img.shields.io/badge/Status-Active-green)
-![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Arduino](https://img.shields.io/badge/Arduino-Compatible-teal)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-green"/>
+  <img src="https://img.shields.io/badge/Platform-ESP32-blue"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow"/>
+  <img src="https://img.shields.io/badge/Arduino-Compatible-teal"/>
+</p>
 
 ## 📋 Overview
 
@@ -58,7 +60,7 @@ ESP32                    IR Sensor Module
 
 ### 2. Installation
 ```bash
-git clone https://github.com/yourusername/Simple_IR_Gate_Controller.git
+git clone https://github.com/K-B-R-S-W/Simple_IR_Gate_Controller.git
 cd Simple_IR_Gate_Controller
 ```
 
@@ -152,7 +154,9 @@ Adjust these parameters in the code as needed:
 
 ## 📷 Demo
 
-*Add photos/videos of your working system here*
+
+
+
 
 ## 🤝 Contributing
 
@@ -160,9 +164,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ### Development Setup
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch (`git checkout -b `)
+3. Commit your changes (`git commit -m `)
+4. Push to the branch (`git push origin feature/`)
 5. Open a Pull Request
 
 ## 📄 License
@@ -183,15 +187,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ **Star this repository if you found it helpful!**
+## 📮 Support
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Setup Guide](SETUP_README.md)
-2. Review [Hardware Documentation](HARDWARE_README.md)
-3. Open an [Issue](https://github.com/yourusername/Simple_IR_Gate_Controller/issues)
-4. Join our community discussions
+**📧 Email:** [k.b.ravindusankalpaac@gmail.com](mailto:k.b.ravindusankalpaac@gmail.com)  
+**🐞 Bug Reports:** [GitHub Issues](https://github.com/K-B-R-S-W/Simple_IR_Gate_Controller/issues)  
+**📚 Documentation:** [Project Wiki](https://github.com/K-B-R-S-W/Simple_IR_Gate_Controller/wiki)  
+**💭 Discussions:** [GitHub Discussions](https://github.com/K-B-R-S-W/Simple_IR_Gate_Controller/discussions)  
 
 ---
-*Built with ❤️ for the maker community*
+
+## ⭐ Support This Project
+If you find this project helpful, please give it a **⭐ star** on GitHub — it motivates me to keep improving! 🚀
+
