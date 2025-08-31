@@ -154,8 +154,21 @@ Adjust these parameters in the code as needed:
 
 ## 📷 Demo
 
+### 1. System
 
+<img src="https://github.com/user-attachments/assets/9f303027-4f05-4997-ba2e-1cf6da88ee01" alt="1" width="350" height="450">
 
+### 2. Gate Closed
+
+<img src="https://github.com/user-attachments/assets/f9de3283-5a70-4ebf-a291-c932ac823b02" alt="1" width="350" height="250">
+
+### 3. Gate Open
+
+<img src="https://github.com/user-attachments/assets/19e6e481-d740-442f-ad71-f63ebed60e0b" alt="1" width="350" height="250">
+
+### 4. Code Output
+
+<img width="677" height="162" alt="Screenshot 2025-08-31 235854" src="https://github.com/user-attachments/assets/885cdfa9-ff5b-473a-b233-826863182b98" />
 
 
 ## 🤝 Contributing
@@ -198,4 +211,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Support This Project
 If you find this project helpful, please give it a **⭐ star** on GitHub — it motivates me to keep improving! 🚀
+
 
